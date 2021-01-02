@@ -31,7 +31,7 @@ Any user can get information about flights stored in server's database according
 To download this repository you should use `git clone` command in your terminal.
 
 ```bash
-git clone https://github.com/Khaaaan/
+git clone https://github.com/Khaaaan/Airport-Management.git
 ```
 
 After downloading this repository, to install requirements to launch this application you can use `pip install` command in appropriate directory.
