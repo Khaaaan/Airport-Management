@@ -87,13 +87,13 @@ Right after running the previous script console will show prompt:
 There are 4 options (not case sensitive). In case of incorrect operation, client will throw an error and show the prompt again.
 
 > After you enter the operation that you wish to do, application check whether it is **'GET'** operation or not. If ti is **"GET"**, additional prompt will appear to ensure is this *authorization*.
-![number_2](/images/number_2)
+![number_2](/images/number_2.png)
 You can skip it or just enter 'n' if it is not.
 > * To be able to make changes to the data in database, authorization will be required
 
 Then *path* will be required.
 
-![number_3](/images/number_3)
+![number_3](/images/number_3.png)
 > IMPORTANT: base url is **http://localhost:5000** so you should not add it.
 ### Paths
 
@@ -124,8 +124,8 @@ In case of POST request it is mandatory to fill all of them while it is optional
 
 **POST** request:
 
-![number_4](/images/number_4)
+![number_4](/images/number_4.png)
 
 **PUT** request:
 
-![number_5](/images/number_5)
+![number_5](/images/number_5.png)
