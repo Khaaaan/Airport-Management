@@ -82,7 +82,7 @@ Finally run [client.py](/client.py):
 ## Client 
 Right after running the previous script console will show prompt:
 
-![number_1](/images/number_1) 
+![number_1](/images/number_1.png) 
 
 There are 4 options (not case sensitive). In case of incorrect operation, client will throw an error and show the prompt again.
 
